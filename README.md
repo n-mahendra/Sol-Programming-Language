@@ -1,5 +1,5 @@
 
-# Sol: A Lightweight, High-level, Multi-paradigm Programming language  and Versatile Scripting Language. 
+# Sol — A lightweight, high-level, multi-paradigm programming language designed for flexibility and powerful scripting.
 <br>
 Sol is a high-level, dynamically typed, interpreted scripting language designed 
 with simplicity, efficiency, and flexibility in mind. It supports procedural, 
