@@ -21,6 +21,7 @@ x = "hello"   -- now x is a string
 3. First-Class Functions
 Functions in Sol are first-class values. They can be assigned to variables, passed as arguments, and returned from other functions:
 
+
 Sol
 function greet(name)
   return "Hello, " .. name
@@ -28,6 +29,7 @@ end
 
 sayHello = greet
 print(sayHello("Sol"))
+
 
 4. Tables: The Only Data Structure
 Sol uses a single, flexible data structure called a table. Tables can function as arrays, dictionaries (key-value pairs), sets, and even objects:
