@@ -7,6 +7,7 @@ functional, and basic object-oriented programming styles, making it adaptable
 for a wide range of applications.<br>
 ________________________________________<br>
 Core Language Features<br>
+
 1. Simple and Minimalistic Syntax<br>
 Sol's syntax is clean, readable, and easy to learn. It draws inspiration from 
 languages like Pascal and Scheme, making it accessible even to beginners. Common 
