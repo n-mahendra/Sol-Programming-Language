@@ -1,6 +1,6 @@
 
-<p># Sol: A Lightweight and Versatile Scripting Language</p>
-<p><br>
+# Sol: A Lightweight and Versatile Scripting Language
+<br>
 Sol is a high-level, dynamically typed, interpreted scripting language designed 
 with simplicity, efficiency, and flexibility in mind. It supports procedural, 
 functional, and basic object-oriented programming styles, making it adaptable 
